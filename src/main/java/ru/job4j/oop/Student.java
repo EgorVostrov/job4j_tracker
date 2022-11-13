@@ -1,6 +1,4 @@
-package ru.job4j.tracker.oop;
-
-public class Student {
+package ru.job4j.oop;public class Student {
 
     public void music(String lirics) {
         System.out.println("I can sign a song : " + lirics);
